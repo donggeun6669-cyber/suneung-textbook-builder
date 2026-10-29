@@ -1,0 +1,13 @@
+# 학원 자료는 이 저장소에 절대 넣지 않는다 (서식 템플릿 · 기출 지문 · 정답률 데이터 · 산출 교재)
+*.docx
+*.doc
+*.hwp
+*.pdf
+*.csv
+Tools/*.json
+Example/
+Documents/
+Mogo/
+__pycache__/
+*.pyc
+.DS_Store
